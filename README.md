@@ -18,9 +18,9 @@
 > 班费输出
 >> 班级活动
 >>> 九月3日聚会
->>>> [班级成立蛋糕](http://www.baidu.com/img/bdlogo.gif): 184.9 元 李钦
+>>>> [班级成立蛋糕](./receipt/20160903cake.jpg): 184.9 元 李钦
 
->>>> [班级聚餐](http://www.baidu.com/img/bdlogo.gif): 832.0 元 李钦
+>>>> [班级聚餐](./receipt/20160903dinner.jpg): 832.0 元 李钦
 
 >>> 中秋聚不聚？
 
